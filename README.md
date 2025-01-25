@@ -1,11 +1,11 @@
 ## 👋 Hi Developer
 
 <p align="center">
-<a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=Erfan+RB" alt="Typing SVG" /></a> 
+<a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=995&color=000000&width=440&lines=+++++++++++++++++++++++Erfan+RB" alt="Typing SVG" /></a>
 </p>
 
 ###  About Me:
-, I’m Erfan, a passionate Computer Engineer with a strong focus on **Python programming**, **Machine Learning (ML)**, and **Image Processing**. I enjoy leveraging technology to solve real-world problems and build intelligent systems.
+I’m Erfan, a passionate Computer Engineer with a strong focus on **Python programming**, **Machine Learning (ML)**, and **Image Processing**. I enjoy leveraging technology to solve real-world problems and build intelligent systems.
 
 ### 🔧 Skills & Expertise
 - **Programming Languages**: Python , R
