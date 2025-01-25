@@ -1,7 +1,7 @@
-## 👋 Hi
+## 👋 Hi Developer
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?color=B200F7&lines=Erfan+RB" alt="Typing SVG" /></a>
+<a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B200F7&width=435&lines=Erfan+RB" alt="Typing SVG" /></a> 
 </p>
 
 ###  About Me:
